@@ -1,0 +1,21 @@
+{
+  "name": "to_s",
+  "version": "0.0.1",
+  "description": "minimal template engine",
+  "main": "to_s.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haradashinya/to_s.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "harada shinya",
+  "license": "BSD"
+}
